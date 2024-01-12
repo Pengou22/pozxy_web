@@ -7,7 +7,7 @@ import 'package:flutter/material.dart';
 //   }):super(key: key,listenable: animation);
 
 //   @override
-///////////
+/////////
 // }
 
 class LovePage extends StatefulWidget {
