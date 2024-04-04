@@ -17,14 +17,14 @@ class _PasswordPageState extends State<PasswordPage> {
         height: double.infinity, // 设置高度为屏幕高度
         decoration: BoxDecoration(
           image: DecorationImage(
-            image: AssetImage('images/1.png'), // 请将图片路径替换为你的图片路径
+            image: AssetImage('images/backgroud/1.jpg'), // 请将图片路径替换为你的图片路径
             fit: BoxFit.cover,
           ),
         ),
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Image(image: AssetImage("images/23.png")),
+            Image(image: AssetImage("images/backgroud/23.png")),
             // Padding(
             //   padding: const EdgeInsets.all(16.0),
             //   child: Text(
